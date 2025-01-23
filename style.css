@@ -1,0 +1,95 @@
+.hh1{
+    padding: 20px 100px;
+    display: flex;
+    gap: 50px;
+}
+.hh1 li{
+     list-style: none;
+}
+
+.ds1{
+    display: flex;
+    padding: 20px 100px;
+}
+
+.ds1_text{
+    width: 497px;
+}
+.ds1_text h1{
+    width: 700;
+    font-size: 44px;
+    line-height: 60px;
+}
+.ds1 button{
+    width: 208px;
+    height: 47px;
+    background-color: rgba(255, 100, 100, 1);
+    color: white;
+    border: none;
+}
+.ds1_img{
+    margin-left: 200px;
+}
+
+.ds2{
+    display: flex;
+    padding: 20px 100px;
+    width: 1152px;
+    height: 396px;
+    background-color: rgba(237, 247, 250, 1);
+}
+.ds2_t1{
+    padding: 10px;
+    margin-top: 50px;
+    background-color: rgba(255, 255, 255, 1);
+    width: 418px;
+    height: 295px;
+}
+.ds2_t2{
+    padding: 10px;
+    margin-left: 30px;
+    margin-top: 50px;
+    background-color: rgba(255, 255, 255, 1);
+    width: 418px;
+    height: 295px;
+}
+.ds3{
+    padding: 20px 100px;
+}
+.ds3_t1{
+    display: flex;
+    margin-top: 50px;
+}
+.ds3_t2{
+    display: flex;
+    margin-top: 50px;
+}
+.ds3_t3{
+    display: flex;
+    margin-top: 50px;
+}
+.ds3_t12{
+    padding: 30px;
+    width:  594px;
+    height:  93px;
+}
+.ds3_t22{
+    padding: 30px;
+    width:  594px;
+    height:  93px;
+}
+.ds3_t32{
+    padding: 30px;
+    width:  594px;
+    height:  93px;
+}
+.iconses{
+    display: flex;
+}
+.iconses i{
+    margin-top: 150px;
+    padding: 10px;
+    font-size: 30px;
+    
+
+}

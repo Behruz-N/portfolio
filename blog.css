@@ -1,0 +1,28 @@
+
+.ds3_h1{
+    font-size: 20px;
+}
+
+.hh2{
+    padding: 20px 100px;
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
+
+.blog{
+    color: rgba(255, 100, 100, 1);
+}
+.dves{
+    padding: 50px 150px;
+    padding-bottom: 100px;
+}
+
+.ds4_h1{
+    font-size: 30px;
+}
+
+.div_text{
+    width: 682px;
+    height: 43px;
+}
