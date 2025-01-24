@@ -23,6 +23,24 @@
 }
 
 .div_text{
-    width: 682px;
-    height: 43px;
+    width:  682px;
+}
+
+.iconses i{
+    margin-top: 50px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.ds4_text1{
+    padding: 10px 50px;
+}
+.ds4_text2{
+    padding: 10px 50px;
+}
+.ds4_text3{
+    padding: 10px 50px;
+}
+.ds4_text4{
+    padding: 10px 50px;
 }
