@@ -1,4 +1,5 @@
 .hh1{
+    justify-content: end;
     padding: 20px 100px;
     display: flex;
     gap: 50px;
@@ -35,7 +36,6 @@
     width: 800px;
 }
 .iconses i{
-    margin-top: 150px;
     padding: 10px;
     font-size: 30px;
     
@@ -52,4 +52,8 @@
 }
 .ds3_t42{
     padding-left: 50px;
+}
+.iconses{
+    justify-content: end;
+    padding-top: 100px;
 }

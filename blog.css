@@ -1,14 +1,14 @@
-
-.ds3_h1{
-    font-size: 20px;
-}
-
 .hh2{
+    justify-content: end;
     padding: 20px 100px;
     display: flex;
     gap: 50px;
     list-style: none;
 }
+.ds3_h1{
+    font-size: 20px;
+}
+
 
 .blog{
     color: rgba(255, 100, 100, 1);
@@ -27,7 +27,6 @@
 }
 
 .iconses i{
-    margin-top: 50px;
     padding: 10px;
     font-size: 30px;
 }
@@ -43,4 +42,8 @@
 }
 .ds4_text4{
     padding: 10px 50px;
+}
+.iconses{
+    display: flex;
+    justify-content: center;
 }
